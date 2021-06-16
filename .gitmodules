@@ -1,0 +1,40 @@
+[submodule "00_picmaker"]
+	path = 00_picmaker
+	url = https://github.com/TahsinAhmed13/00_picmaker.git
+	branch = main
+[submodule "01_line"]
+	path = 01_line
+	url = https://github.com/TahsinAhmed13/01_line.git
+	branch = main
+[submodule "02_matrix"]
+	path = 02_matrix
+	url = https://github.com/TahsinAhmed13/02_matrix.git
+	branch = main
+[submodule "03_transform"]
+	path = 03_transform
+	url = https://github.com/TahsinAhmed13/03_transform.git
+	branch = main
+[submodule "04_curves"]
+	path = 04_curves
+	url = https://github.com/TahsinAhmed13/04_curves.git
+	branch = main
+[submodule "05_3d"]
+	path = 05_3d
+	url = https://github.com/TahsinAhmed13/05_3d.git
+	branch = main
+[submodule "06_polygons"]
+	path = 06_polygons
+	url = https://github.com/TahsinAhmed13/06_polygons.git
+	branch = main
+[submodule "07_cstack"]
+	path = 07_cstack
+	url = https://github.com/TahsinAhmed13/07_cstack.git
+	branch = main
+[submodule "08_solids"]
+	path = 08_solids
+	url = https://github.com/TahsinAhmed13/08_solids.git
+	branch = main
+[submodule "09_lighting"]
+	path = 09_lighting
+	url = https://github.com/TahsinAhmed13/09_lighting.git
+	branch = main
