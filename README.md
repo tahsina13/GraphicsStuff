@@ -1,6 +1,6 @@
 # Graphics Stuff
 
-A repo for all my graphics assignments.
+A repo for all my graphics assignments for mks66 at Stuyvesant High School.
 
 ## Homework
 
