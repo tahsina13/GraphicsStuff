@@ -1,0 +1,45 @@
+# BALLONS
+push
+move
+120 380 0
+scale
+1.2 1.5 1.2
+sphere
+0 0 0 35
+bezier
+0 -35 35 -35 35 -70 0 -70
+bezier
+0 -70 -35 -70 -35 -105 0 -105
+bezier
+0 -105 35 -105 35 -140 0 -140
+pop
+push
+move
+370 310 0
+scale
+1.2 1.5 1.2
+sphere
+0 0 0 35
+bezier
+0 -35 35 -35 35 -70 0 -70
+bezier
+0 -70 -35 -70 -35 -105 0 -105
+bezier
+0 -105 35 -105 35 -140 0 -140
+pop
+push
+move
+220 190 0
+scale
+1.2 1.5 1.2
+sphere
+0 0 0 35
+bezier
+0 -35 35 -35 35 -70 0 -70
+bezier
+0 -70 -35 -70 -35 -105 0 -105
+bezier
+0 -105 35 -105 35 -140 0 -140
+display
+save
+ballons.png

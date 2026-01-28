@@ -1,0 +1,46 @@
+# body
+sphere
+250 150 0 125
+sphere
+250 250 0 100
+sphere
+250 350 0 75
+torus
+250 410 0 10 55
+torus
+250 430 0 10 45
+torus
+250 450 0 10 35
+torus
+250 470 0 10 25
+torus
+250 490 0 10 15
+torus
+250 510 0 10 5
+# arms
+box
+0 260 10 150 20 20
+box
+30 310 10 20 50 20
+box
+30 240 10 20 50 20
+box
+350 260 10 150 20 20
+box
+450 310 10 20 50 20
+box
+450 240 10 20 50 20
+# rotate
+ident
+move
+-250 -250 0
+rotate
+x 30
+rotate
+y 50
+move
+250 250 0
+apply
+display
+save
+frosty.png
